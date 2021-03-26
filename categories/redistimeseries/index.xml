@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>redistimeseries on Javagrunt</title>
+    <link>https://javagrunt.com/categories/redistimeseries/</link>
+    <description>Recent content in redistimeseries on Javagrunt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 21 Feb 2021 08:56:39 -0600</lastBuildDate><atom:link href="https://javagrunt.com/categories/redistimeseries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forked Fork for Telegraf</title>
+      <link>https://javagrunt.com/posts/telegraf-forked-fork/</link>
+      <pubDate>Sun, 21 Feb 2021 08:56:39 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/telegraf-forked-fork/</guid>
+      <description>The work    In my homelab, I&amp;rsquo;m setting up RedisTimeSeries on a Raspberry Pi. I wanted to use Telegraf to deliver metrics from the Raspberry Pi to RedisTimeSeries. There was a function fork that had already submitted a PR.
+The PR was started in 2019! It recently had some additional feedback added to it, so I decided to implement some of the feedback.
+By creating a fork of the fork and creating a PR for the PR!</description>
+    </item>
+    
+    <item>
+      <title>PR for redistimeseries-js issue 17</title>
+      <link>https://javagrunt.com/posts/redistimeseries-js-issue-17-pr/</link>
+      <pubDate>Sat, 30 Jan 2021 10:38:43 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/redistimeseries-js-issue-17-pr/</guid>
+      <description>My friend, Dustin, has been doing to really cool stuff with RedisTimeSeries. He realized the new RedisTimeSeries features weren&amp;rsquo;t implemented in the client library he was using. I took a look at the library, and decided to create a PR. The issue had already been opened, so I went to work. Forked the repository, kept notes, asked for feedback. It was fun.
+Met HermitCode, lusket, siddhant_24
+Archive</description>
+    </item>
+    
+  </channel>
+</rss>

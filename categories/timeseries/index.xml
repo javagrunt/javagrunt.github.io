@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>timeseries on Javagrunt</title>
+    <link>https://javagrunt.com/categories/timeseries/</link>
+    <description>Recent content in timeseries on Javagrunt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sat, 30 Jan 2021 10:38:43 -0600</lastBuildDate><atom:link href="https://javagrunt.com/categories/timeseries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PR for redistimeseries-js issue 17</title>
+      <link>https://javagrunt.com/posts/redistimeseries-js-issue-17-pr/</link>
+      <pubDate>Sat, 30 Jan 2021 10:38:43 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/redistimeseries-js-issue-17-pr/</guid>
+      <description>My friend, Dustin, has been doing to really cool stuff with RedisTimeSeries. He realized the new RedisTimeSeries features weren&amp;rsquo;t implemented in the client library he was using. I took a look at the library, and decided to create a PR. The issue had already been opened, so I went to work. Forked the repository, kept notes, asked for feedback. It was fun.
+Met HermitCode, lusket, siddhant_24
+Archive</description>
+    </item>
+    
+  </channel>
+</rss>

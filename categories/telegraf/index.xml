@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>telegraf on Javagrunt</title>
+    <link>https://javagrunt.com/categories/telegraf/</link>
+    <description>Recent content in telegraf on Javagrunt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 21 Feb 2021 08:56:39 -0600</lastBuildDate><atom:link href="https://javagrunt.com/categories/telegraf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forked Fork for Telegraf</title>
+      <link>https://javagrunt.com/posts/telegraf-forked-fork/</link>
+      <pubDate>Sun, 21 Feb 2021 08:56:39 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/telegraf-forked-fork/</guid>
+      <description>The work    In my homelab, I&amp;rsquo;m setting up RedisTimeSeries on a Raspberry Pi. I wanted to use Telegraf to deliver metrics from the Raspberry Pi to RedisTimeSeries. There was a function fork that had already submitted a PR.
+The PR was started in 2019! It recently had some additional feedback added to it, so I decided to implement some of the feedback.
+By creating a fork of the fork and creating a PR for the PR!</description>
+    </item>
+    
+  </channel>
+</rss>
