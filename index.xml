@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javagrunt</title>
+    <link>https://javagrunt.com/</link>
+    <description>Recent content on Javagrunt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 28 Nov 2023 22:37:25 -0600</lastBuildDate><atom:link href="https://javagrunt.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitch Metrics Exporter</title>
+      <link>https://javagrunt.com/posts/twitch-metrics-exporter/</link>
+      <pubDate>Tue, 28 Nov 2023 22:37:25 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/twitch-metrics-exporter/</guid>
+      <description>I have been having a blast streaming lately. I&amp;rsquo;m streaming more and having even more fun. I hope to encourage others to stream more &amp;ldquo;live-coding&amp;rdquo; or Java/Spring centric content also.
+I created this project during a stream and explored the API a little in the process.
+Right now, its just capturing two metrics. It&amp;rsquo;s two metrics that can be collected without a &amp;ldquo;user&amp;rdquo; token. It then exposes those metrics to be consumed by Prometheus.</description>
+    </item>
+    
+    <item>
+      <title>Forked Fork for Telegraf</title>
+      <link>https://javagrunt.com/posts/telegraf-forked-fork/</link>
+      <pubDate>Sun, 21 Feb 2021 08:56:39 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/telegraf-forked-fork/</guid>
+      <description>The work    In my homelab, I&amp;rsquo;m setting up RedisTimeSeries on a Raspberry Pi. I wanted to use Telegraf to deliver metrics from the Raspberry Pi to RedisTimeSeries. There was a function fork that had already submitted a PR.
+The PR was started in 2019! It recently had some additional feedback added to it, so I decided to implement some of the feedback.
+By creating a fork of the fork and creating a PR for the PR!</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://javagrunt.com/projects/</link>
+      <pubDate>Tue, 09 Feb 2021 12:17:06 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/projects/</guid>
+      <description>I will do my best to keep these repositories fresh.
+PRs are welcome!
+ Github  </description>
+    </item>
+    
+    <item>
+      <title>What are we doing here?</title>
+      <link>https://javagrunt.com/about/</link>
+      <pubDate>Tue, 09 Feb 2021 11:21:38 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/about/</guid>
+      <description>Continuously learning. Deliberately practicing to build better software, faster. Believing that every rep counts. Trying to get a little better every day. Improving our own understanding by sharing it with others. Making ourselves available.  Introduction video on YouTube</description>
+    </item>
+    
+    <item>
+      <title>Github Pages, Github Actions, and Hugo -- Rinse and Repeat</title>
+      <link>https://javagrunt.com/posts/dashaun-phillipcharliedaniell-vrondran-hugo-github-pages-github-actions/</link>
+      <pubDate>Mon, 08 Feb 2021 23:53:15 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/dashaun-phillipcharliedaniell-vrondran-hugo-github-pages-github-actions/</guid>
+      <description>Upgrade a single page site to use Hugo    One of my good friends, Charlie, is living his dream of being an actor in Hollywood. We are both enjoying our career journeys. Charlie&amp;rsquo;s career is about to skyrocket. I spoke to Charlie earlier in the day, and had him look at Hugo themes. I also invited Josh to join in and do the same. The plan was to upgrade both of their websites from single page to using Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Github Pages, Github Actions, and Hugo</title>
+      <link>https://javagrunt.com/posts/building-javagrunt-com-with-hugo-and-github-pages-github-actions/</link>
+      <pubDate>Sun, 07 Feb 2021 00:20:39 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/building-javagrunt-com-with-hugo-and-github-pages-github-actions/</guid>
+      <description>Making a Hugo site for Github Pages     Make javagrunt.github.io Add CNAME for javagrunt.com Setup CNAME at registrar Make a private source repository Create a hugo site, using &amp;lsquo;codex&amp;rsquo; theme  git clone git@github.com:javagrunt/javagrunt-hugo-src.git hugo new site javagrunt-hugo-src/ --force git submodule add https://github.com/jakewies/hugo-theme-codex.git themes/hugo-theme-codex   Add a blog post (this one)  hugo new blog/hugo.md   Create a Github action to deploy the site  https://github.</description>
+    </item>
+    
+    <item>
+      <title>Azure, Terraform, and Redis</title>
+      <link>https://javagrunt.com/posts/azure-terraform-and-redis/</link>
+      <pubDate>Sat, 06 Feb 2021 12:33:09 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/azure-terraform-and-redis/</guid>
+      <description>Using Terraform to Deploy to Terraform Cloud    In a previous life, I used CredHub in my home, to keep all of my credentials and secrets safe. I want to do as much in Terraform as possible. This was me just practicing using Terraform to create/destroy workspaces.
+Archive</description>
+    </item>
+    
+    <item>
+      <title>PR for redistimeseries-js issue 17</title>
+      <link>https://javagrunt.com/posts/redistimeseries-js-issue-17-pr/</link>
+      <pubDate>Sat, 30 Jan 2021 10:38:43 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/redistimeseries-js-issue-17-pr/</guid>
+      <description>My friend, Dustin, has been doing to really cool stuff with RedisTimeSeries. He realized the new RedisTimeSeries features weren&amp;rsquo;t implemented in the client library he was using. I took a look at the library, and decided to create a PR. The issue had already been opened, so I went to work. Forked the repository, kept notes, asked for feedback. It was fun.
+Met HermitCode, lusket, siddhant_24
+Archive</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://javagrunt.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://javagrunt.com/privacy/</guid>
+      <description>Privacy Policy    Last updated: December 10, 2021
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</description>
+    </item>
+    
+  </channel>
+</rss>

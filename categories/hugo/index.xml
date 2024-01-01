@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Javagrunt</title>
+    <link>https://javagrunt.com/categories/hugo/</link>
+    <description>Recent content in hugo on Javagrunt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 08 Feb 2021 23:53:15 -0600</lastBuildDate><atom:link href="https://javagrunt.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Pages, Github Actions, and Hugo -- Rinse and Repeat</title>
+      <link>https://javagrunt.com/posts/dashaun-phillipcharliedaniell-vrondran-hugo-github-pages-github-actions/</link>
+      <pubDate>Mon, 08 Feb 2021 23:53:15 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/dashaun-phillipcharliedaniell-vrondran-hugo-github-pages-github-actions/</guid>
+      <description>Upgrade a single page site to use Hugo    One of my good friends, Charlie, is living his dream of being an actor in Hollywood. We are both enjoying our career journeys. Charlie&amp;rsquo;s career is about to skyrocket. I spoke to Charlie earlier in the day, and had him look at Hugo themes. I also invited Josh to join in and do the same. The plan was to upgrade both of their websites from single page to using Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Github Pages, Github Actions, and Hugo</title>
+      <link>https://javagrunt.com/posts/building-javagrunt-com-with-hugo-and-github-pages-github-actions/</link>
+      <pubDate>Sun, 07 Feb 2021 00:20:39 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/building-javagrunt-com-with-hugo-and-github-pages-github-actions/</guid>
+      <description>Making a Hugo site for Github Pages     Make javagrunt.github.io Add CNAME for javagrunt.com Setup CNAME at registrar Make a private source repository Create a hugo site, using &amp;lsquo;codex&amp;rsquo; theme  git clone git@github.com:javagrunt/javagrunt-hugo-src.git hugo new site javagrunt-hugo-src/ --force git submodule add https://github.com/jakewies/hugo-theme-codex.git themes/hugo-theme-codex   Add a blog post (this one)  hugo new blog/hugo.md   Create a Github action to deploy the site  https://github.</description>
+    </item>
+    
+    <item>
+      <title>Azure, Terraform, and Redis</title>
+      <link>https://javagrunt.com/posts/azure-terraform-and-redis/</link>
+      <pubDate>Sat, 06 Feb 2021 12:33:09 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/posts/azure-terraform-and-redis/</guid>
+      <description>Using Terraform to Deploy to Terraform Cloud    In a previous life, I used CredHub in my home, to keep all of my credentials and secrets safe. I want to do as much in Terraform as possible. This was me just practicing using Terraform to create/destroy workspaces.
+Archive</description>
+    </item>
+    
+  </channel>
+</rss>

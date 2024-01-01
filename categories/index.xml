@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Javagrunt</title>
+    <link>https://javagrunt.com/categories/</link>
+    <description>Recent content in Categories on Javagrunt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 21 Feb 2021 08:56:39 -0600</lastBuildDate><atom:link href="https://javagrunt.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>github</title>
+      <link>https://javagrunt.com/categories/github/</link>
+      <pubDate>Sun, 21 Feb 2021 08:56:39 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redistimeseries</title>
+      <link>https://javagrunt.com/categories/redistimeseries/</link>
+      <pubDate>Sun, 21 Feb 2021 08:56:39 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/redistimeseries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telegraf</title>
+      <link>https://javagrunt.com/categories/telegraf/</link>
+      <pubDate>Sun, 21 Feb 2021 08:56:39 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/telegraf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github actions</title>
+      <link>https://javagrunt.com/categories/github-actions/</link>
+      <pubDate>Mon, 08 Feb 2021 23:53:15 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/github-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github pages</title>
+      <link>https://javagrunt.com/categories/github-pages/</link>
+      <pubDate>Mon, 08 Feb 2021 23:53:15 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://javagrunt.com/categories/hugo/</link>
+      <pubDate>Mon, 08 Feb 2021 23:53:15 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gohugo</title>
+      <link>https://javagrunt.com/categories/gohugo/</link>
+      <pubDate>Sat, 06 Feb 2021 12:33:09 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/gohugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>node</title>
+      <link>https://javagrunt.com/categories/node/</link>
+      <pubDate>Sat, 30 Jan 2021 10:38:43 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/node/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>npm</title>
+      <link>https://javagrunt.com/categories/npm/</link>
+      <pubDate>Sat, 30 Jan 2021 10:38:43 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/npm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis</title>
+      <link>https://javagrunt.com/categories/redis/</link>
+      <pubDate>Sat, 30 Jan 2021 10:38:43 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>timeseries</title>
+      <link>https://javagrunt.com/categories/timeseries/</link>
+      <pubDate>Sat, 30 Jan 2021 10:38:43 -0600</pubDate>
+      
+      <guid>https://javagrunt.com/categories/timeseries/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
